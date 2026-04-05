@@ -4,7 +4,7 @@
 A home lab with 2 Domain Controllers, DNS, DHCP, and a Windows 11 domain-joined client.
 
 ## Network Topology
-![Network Diagram](diagrams/network-topology.png)
+![Network Diagram](diagrams/Network_Diagram.JPG)
 
 ## Screenshots
 ### Active Directory Structure
