@@ -3,6 +3,14 @@
 ## Overview
 A home lab with 2 Domain Controllers, DNS, DHCP, and a Windows 11 domain-joined client.
 
+## Technologies Used
+- VMWare Workstation Pro 17
+- Windows Server 2022
+- Active Directory Domain Services (AD DS)
+- DNS Server
+- DHCP Server
+- Windows 11 Client
+
 ## Network Topology
 ![Network Diagram](diagrams/Network_Diagram.JPG)
 
@@ -33,13 +41,6 @@ Firewall
 
 📄 [View Firewall GPO Rules](configs/firewal/firewall.md)
 
-## Technologies Used
-- VMWare Workstation Pro 17
-- Windows Server 2022
-- Active Directory Domain Services (AD DS)
-- DNS Server
-- DHCP Server
-- Windows 11 Client
 
 ## Troubleshooting 
  * Solve DNS not showing on Win11 Client
